@@ -1,10 +1,10 @@
 # Flipkart Product Customer reviews dataset for sentiment analysis
 Product sentiment analysis is a process of analyzing customer feedback or reviews to determine the overall sentiment (positive, negative, or neutral) towards a product. 
 
-Problem Statement
+Problem Statement:
 This dataset contains information about Product name, Product price, Rate, Reviews, Summary and Sentiment in csv format. There are 104 different types of products of flipkart.com such as electronics items, clothing of men, women and kids, Home decor items, Automated systems, so on. The aim is to gain insights into how customers perceive the product and to identify areas of improvement.
 
-Objectives
+Objectives:
 By analyzing customer feedback, businesses can:
 
 1.  Improve product development: Feedback from customers can help businesses identify the strengths and weaknesses of their products, as well as areas for improvement. This can inform product development efforts and help businesses create products that better meet customer needs.
