@@ -16,3 +16,4 @@ By analyzing customer feedback, businesses can:
 
 4. Monitor brand reputation: By monitoring customer feedback, businesses can quickly identify and address any issues that may arise, such as negative reviews or complaints. 
 
+A streamlit app is developed to predict the sentiments based on the review comments.
