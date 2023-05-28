@@ -28,7 +28,7 @@ clf.fit(X, y)
 # Define the Streamlit app
 st.title('Sentiment Analysis')
 product_name = st.text_input('Enter the product name:')
-price = st.number_input('Enter the price:')
+#price = st.number_input('Enter the price:')
 review = st.text_input('Enter a review:')
 if st.button('Predict'):
     # Convert the input to a vector using the same TfidfVectorizer
